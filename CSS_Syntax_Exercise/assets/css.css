@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
+}
+
+/* ul {
+  list-style: square inside url("head_section_example_recipe.html")
+} */
+
+ol {
+  list-style: square inside 
+}
